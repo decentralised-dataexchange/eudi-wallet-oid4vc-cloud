@@ -43,7 +43,7 @@ Feel free to improve the plugin and send us a pull request. If you find any prob
 1. EBSI Wallet Conformance Testing - https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/EBSI+Wallet+Conformance+Testing
 
 ## Licensing
-Copyright (c) 2022-25 LCubed AB (iGrant.io), Sweden
+Copyright (c) 2026 iGrant Technologies AB (iGrant.io), Sweden
 
 This file is licensed under the Apache License, Version 2.0 (the "License"); you may not use it except in compliance with the License.
 
